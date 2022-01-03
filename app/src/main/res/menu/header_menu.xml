@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Home"
+    android:icon="@drawable/home_icon"
+    android:id="@+id/home_menu"
+    />
+    <item
+    android:title="Popular"
+    android:icon="@drawable/popular"
+    android:id="@+id/popular_menu"
+    />
+    <item
+    android:title="Random"
+    android:icon="@drawable/random"
+    android:id="@+id/random_menu"
+    />
+    <item
+    android:title="Liked"
+    android:icon="@drawable/liked"
+    android:id="@+id/liked_menu"
+    />
+    <item
+    android:title="History"
+    android:icon="@drawable/history"
+    android:id="@+id/history_menu"
+    />
+    <item
+    android:title="About"
+    android:icon="@drawable/about"
+    android:id="@+id/about_menu"
+    />
+
+
+</menu>
